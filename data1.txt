@@ -1,0 +1,20 @@
+2  3  5  Andorra
+4  2  3  Antigua and Barbuda
+12  5  8  Brunei
+15  2  4  East Timor
+16  8  9  Liechtenstein
+18  1  4  Cape Verde
+19  1  5  Djibouti
+20  6  2  Kiribati
+25  4  3  Comoros
+35  3  8  Equatorial Guinea
+60  9  7  Marshall Islands
+61  6  2  Vatican City
+65  2  6  Nauru
+66  1  7  Maldives
+70  3  4  San Marino
+71  3  5  Tuvalu
+83  4  7  Sao Tome and Principe
+95  5  9  Vanuatu
+105  4  3  Monaco
+107  5  8  Guinea-Bissau
